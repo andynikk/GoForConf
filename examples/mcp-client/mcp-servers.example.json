@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "goforconf-demo": {
+      "command": "C:\\GoForConf\\examples\\mcp-client\\goforconf-mcp.exe",
+      "args": [],
+      "env": {
+        "GOFORCONF_CONFIG": "C:\\GoForConf\\examples\\mcp-client\\client.json"
+      }
+    }
+  }
+}

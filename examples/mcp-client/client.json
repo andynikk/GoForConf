@@ -1,0 +1,5 @@
+{
+  "httpAddr": "http://127.0.0.1:8088",
+  "mcpResponseProfile": "economy",
+  "mcpForbiddenFieldsPath": "mcp_forbidden_fields.md"
+}

@@ -1,0 +1,12 @@
+config.local.json
+config/http_access.clients.json
+logs/
+*.exe
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+!examples/demo-snapshot/bin/goforconf-reader.exe
+!examples/demo-snapshot/bin/goforconf-mcp.exe
+!examples/demo-snapshot/data/demo.sqlite
+!examples/mcp-client/goforconf-mcp.exe
